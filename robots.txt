@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rit-trustse.github.io/sitemap.xml
